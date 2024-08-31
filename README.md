@@ -3,4 +3,4 @@ Novice Android Developer (The one who was able to launch Non-GSI LineageOS on A3
 
 ![Igorpetinik github stats](https://github-readme-stats.vercel.app/api?username=Igorpetinik&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=onesmiledx&theme=radical)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Igorpetinik&theme=radical)](https://git.io/streak-stats) 
